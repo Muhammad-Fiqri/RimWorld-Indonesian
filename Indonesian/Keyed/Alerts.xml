@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Klik untuk lompat ke masalah</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinor>Risiko Gangguan Mental Kecil</BreakRiskMinor>
+  <BreakRiskMajor>Risiko Gangguan Mental Besar</BreakRiskMajor>
+  <BreakRiskExtreme>Risiko Gangguan Mental Ekstrim</BreakRiskExtreme>
   <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
